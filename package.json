@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "leafer-x-context-menu",
   "version": "1.0.0",
   "author": "ZhangZongWei <1538583867@qq.com>",
-=======
-  "name": "leafer-x",
-  "version": "1.0.1",
-  "author": "leafer <leaferjs@163.com>",
->>>>>>> b549d633026cbe53ae33c22a3ee0d9bf4f409e75
   "license": "MIT",
   "type": "module",
   "main": "dist/index.esm.js",
